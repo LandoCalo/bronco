@@ -27,3 +27,18 @@ are cloning. You can git it from the code button on your github repo.
     git add .: to add file then
     git commit -m " first commit or what ever you want to call it.":
     git push: 
+
+
+
+
+    In computer science, data is anything that is meaningful to the computer. JavaScript provides eight different data types which are undefined, null, boolean, string, symbol, bigint, number, and object.
+
+
+    var myVar;
+myVar = 5;
+var myNum;
+myNum = myVar;
+/ means division in javasript 
+* multiply 
++ plus 
+-minus
