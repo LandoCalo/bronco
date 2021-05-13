@@ -1,5 +1,8 @@
 <link rel="stylesheet" href="./styles/media-queries.css"> link inside head 
 
+    @media (max-width:615) {
+        now put your styles inside of here 
+    }
  /* To Make a Paralax feature */
     background-attachment: fixed;
     background-position: center;
