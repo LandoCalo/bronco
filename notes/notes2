@@ -27,7 +27,10 @@ are cloning. You can git it from the code button on your github repo.
     git add .: to add file then
     git commit -m " first commit or what ever you want to call it.":
     git push: 
-
+    cd .. : is to go back
+    cls: clear
+    ls-la 
+    mkdir: will make a new file  
 
 
 
