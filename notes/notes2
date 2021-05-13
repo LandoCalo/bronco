@@ -17,8 +17,10 @@ are cloning. You can git it from the code button on your github repo.
     background-position: center;
 
 
-    git status
-    git init
-    git add . to add file then
-    git commit -m " first commit or what ever you want to call it."
-    git push 
+    ls: will bring all of your files up then choose your file and press 
+    cd html: or what ever your file is called 
+    git status: then press enter 
+    git init: then press enter
+    git add .: to add file then
+    git commit -m " first commit or what ever you want to call it.":
+    git push: 
