@@ -15,4 +15,10 @@ are cloning. You can git it from the code button on your github repo.
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    
+
+
+    git status
+    git init
+    git add . to add file then
+    git commit -m " first commit or what ever you want to call it."
+    git push 
