@@ -1,0 +1,29 @@
+/* Page container styles */
+.page-container {
+    display: flex;
+    justify-content: center;
+}
+.page-container > .content-wrapper {
+    width: 1000px;
+}.page-container > .content-wrapper > #the-jammer {
+    width: 350px;
+    margin: 23px 40px 20px 0;
+    float: left;
+    border: 2px solid #cea135;
+}
+.page-container > .content-wrapper p {
+    letter-spacing: 1px;
+    line-height: 30px;
+}
+.page-container > .contact-grid-wrapper {
+    color: black;
+}
+.page-container > .contact-grid-wrapper > .company-metadata-sidebar-wrapper > .logo img {
+    height: 500px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

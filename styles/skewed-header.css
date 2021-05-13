@@ -1,0 +1,46 @@
+/* Skewed Header */
+.skewed-header {
+    position: relative;
+    height: 400px;
+    overflow: hidden;
+}
+.skewed-header > .header-bg {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    transform: skewY(-6deg);
+    transform-origin: top left;
+    filter: brightness(95%);
+    border-bottom: 3px solid red;
+}
+.skewed-header > .skewed-header-wrapper {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+}
+.skewed-header > .skewed-header-wrapper > .skewed-header-content {
+    width: 1000px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.skewed-header > .skewed-header-wrapper > .skewed-header-content > .heading-wrapper {
+    background-color: #cea135;
+    color: black;
+    width: 175px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    border-bottom: #11122b solid 4px;
+    border-left: solid 4px #11122b;
+    border-right: solid 4px #11122b;
+}

@@ -1,0 +1,55 @@
+/* Footer styles */
+.footer {
+    background-color: black;
+    color: #cbcbcb;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 400px;
+    margin-top: -4px;
+    border-top: 5px solid red;
+}
+.footer > .logo-footer img {
+    width: 290px;
+    height: 100%;
+    filter: brightness(100%);
+    opacity: 0.9;
+}
+.footer > .footer-phone-hours span {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 1em;
+    letter-spacing: 2px;
+}
+.footer > .footer-phone-hours > .hours {
+    font-size: 0.8em;
+    color: red;
+    text-transform: uppercase;
+}
+.footer > .links-wrapper {
+    margin-top: 50px;
+    margin-bottom: 25px;
+    width: 400px;
+}
+.footer > .social-media-icons-wrapper {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+.footer > .social-media-icons-wrapper a {
+    font-size: 1.5em;
+    color: #cbcbcb;
+    transition: 0.5s;
+}
+.footer > .social-media-icons-wrapper a:hover {
+    color: red;
+}
+.footer > .copyright-wrapper {
+    margin-bottom: 12px;
+    font-size: 0.7em;
+    color: red;
+}
