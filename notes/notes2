@@ -1,1 +1,18 @@
-sf
+<link rel="stylesheet" href="./styles/media-queries.css"> link inside head 
+
+ /* To Make a Paralax feature */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+git clone https://github.com/LandoCalo/bronco.git: This is to clone repos off git hub. The url at the end is the repo you
+are cloning. You can git it from the code button on your github repo.
+
+
+     background-image: url(../images/logos/ford-bronco.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
