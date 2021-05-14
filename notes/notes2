@@ -32,7 +32,7 @@ are cloning. You can git it from the code button on your github repo.
     ls-la 
     mkdir: will make a new file  
 
-
+JAVAJSCRIPT
 javascript is the most powerful language in programming
 it is also very good to build apps with it makes it way easier instead of learning multiple languages that are very hard
 it also helps with math
@@ -63,6 +63,17 @@ var age ="16";
 let name ="Landon";
 console.log(age);
 console.log(name);
+var: is something you can change 
+let: is not something you can change
+var name, city, age;
+name ="Landon";
+city ="salt lake";
+age = 12;
+console.log(city);
+console.log(age);
+console.log(name);
 
-
-
+console.log(age);
+var age = 15; this does not work you need to put them the other way around
+//this is a single line comment 
+/* this is a multiple line comment*/
