@@ -80,3 +80,20 @@ var age = 15; this does not work you need to put them the other way around
 var truth ="true";
 var notTruth ="false";
 console.log(truth);
+//Null 
+var nully= "null"; if a user name is not filled in it will show up as  null
+console.log(nully);
+//Undefined 
+var notDefined; 
+console.log(notDefined);
+//number 
+var age = 12;
+console.log(age);
+//String for words and sentences 
+var name ="Landon";
+var nameTwo ="Langford";
+console.log(name);
+console.log(nameTwo);
+//symbol
+var mySym = Symbol("bar");
+ console.log(mySym);
