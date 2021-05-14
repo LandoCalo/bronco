@@ -97,3 +97,14 @@ console.log(nameTwo);
 //symbol
 var mySym = Symbol("bar");
  console.log(mySym);
+ var user = {name: "Landon"}
+ user.name ="langford";
+console.log(user); to create an object 
+
+//this is to select multiple items at once 
+var user = {
+  name: "Landon",
+  age: 16,
+  city: "spanish fork"
+}
+console.log(user);
