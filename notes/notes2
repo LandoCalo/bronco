@@ -50,5 +50,11 @@ myNum = myVar;
 * multiply 
 + plus 
 -minus
+var helloWorld = "Hi";
+console.log(helloWorld)
+var myName = "Landon";
+console.log(myName)
+var yourCool = "You're Waaaay sweeeter";
+console.log(yourCool)
 
 study nth child 
