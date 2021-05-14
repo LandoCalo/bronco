@@ -72,8 +72,11 @@ age = 12;
 console.log(city);
 console.log(age);
 console.log(name);
-
 console.log(age);
 var age = 15; this does not work you need to put them the other way around
 //this is a single line comment 
 /* this is a multiple line comment*/
+//Boolean 
+var truth ="true";
+var notTruth ="false";
+console.log(truth);
