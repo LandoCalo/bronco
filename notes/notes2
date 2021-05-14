@@ -8,7 +8,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-
+study nth child 
 
 git clone https://github.com/LandoCalo/bronco.git: This is to clone repos off git hub. The url at the end is the repo you
 are cloning. You can git it from the code button on your github repo.
@@ -56,5 +56,13 @@ var myName = "Landon";
 console.log(myName)
 var yourCool = "You're Waaaay sweeeter";
 console.log(yourCool)
+var name = "Lisher";
+console.log(name);
+alert(name); sends an alert to your computer
+var age ="16";
+let name ="Landon";
+console.log(age);
+console.log(name);
 
-study nth child 
+
+
